@@ -1,0 +1,14 @@
+{
+  "name": "claude-notify",
+  "version": "1.0.0",
+  "description": "Claude Code 跨平台桌面通知脚本，支持 Windows 和 macOS",
+  "main": "notify.js",
+  "scripts": {
+    "install": "node install.js",
+    "uninstall": "node uninstall.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "license": "MIT"
+}
